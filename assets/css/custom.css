@@ -1,0 +1,24 @@
+.hero-area {
+    padding: 0px 100px;
+}
+.hero-area .block h1 {
+    font-size: 70px;
+}
+.hero-area .block p {
+    font-size: 40px;
+}
+.title-h2-span {
+    color: #353b43;
+}
+.rounded-circle {
+    border-radius: 5%!important;
+}
+.white-bg {
+    color: #ffffff;
+}
+.whitep {
+    color: #ffffff!important;
+  }
+  .author {
+    color: #ffffff!important;
+  }

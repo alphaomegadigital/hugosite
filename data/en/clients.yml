@@ -4,34 +4,34 @@ clients:
   title : Trusted by Australian businesses
   clients :
     # clients loop
-    - image : images/clients/MicrosoftTeams-image-14-2.png
+    - image : images/clients/vinnies300x300.png
       link : "https://youthvic.vinnies.org.au/"
      
     # clients loop
-    - image : images/clients/PSN-logo.png
+    - image : images/clients/PSN-logo300.webp
       link : "https://publicsectornetwork.co/"
      
     # clients loop
-    - image : images/clients/meganjordanlogo.jpeg
+    - image : images/clients/meganjordanlogo300.jpg
       link : "https://meganjordan.com.au/"
      
     # clients loop
-    - image : images/clients/Facebook-Termite-Logo-02.png
+    - image : images/clients/Facebook-Termite-Logo300x300.webp
       link : "https://termitecatchers.com.au/"
      
     # clients loop
-    - image : images/clients/Bk-logo.png
+    - image : images/clients/Bk-logo300.png
       link : "https://bridgekids.com.au/"
      
     # clients loop
-    - image : images/clients/lmflogo.png
+    - image : images/clients/lmflogo300x300.png
       link : "https://lmf.org.au/"
      
     # clients loop
-    - image : images/clients/naturalsleep-logo.png
+    - image : images/clients/naturalsleep-logo300.webp
       link : "http://naturalcomfort.com.au/"
      
     # clients loop
-    - image : images/clients/site-logo-optimized-1.png
+    - image : images/clients/elissahill300.webp
       link : "https://elissahill.com.au/"
      

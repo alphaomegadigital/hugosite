@@ -13,8 +13,9 @@ I specialise in custom built sites on the Genesis Framework. I love complex chal
 
 I provide a skills gap between business owners and your technical requirements, so your web services are outsourced to a highly skilled professional. A lot of the work I get is maintaining and updating wordpress websites. As a professional WordPress freelancer, I can provide you with an agency level service, for a fraction of the price.
 
-My heart is to work with every type of business owner from SME’s to NPO’s, and provide a solution that works with your budget and goals. I am willing to take on messy jobs such as:
+My heart is to work with every type of business owner from SME’s to NPO’s, and provide a solution that works with your budget and goals. I am willing to take on messy jobs such as:  
 
+***
 - incomplete web projects
 - conversions from bootstrap
 - PSD to WordPress
@@ -23,9 +24,10 @@ My heart is to work with every type of business owner from SME’s to NPO’s, a
 - CSS customisations
 - PHP development
 
+***
 Please contact me with your web requirements, and let’s have a chat about what you’re looking for and how I can help you.
 
-# Skills
+## Skills
 [WORDPRESS DEVELOPMENT](https://codex.wordpress.org/)
 
 [AWS CLOUD](https://aws.amazon.com/)

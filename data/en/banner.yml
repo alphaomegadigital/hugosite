@@ -4,8 +4,8 @@ banner:
   bg_image_webp : "images/backgrounds/pexels-pixabay-265129dark-1024x683-1.webp"
   bg_image : "images/backgrounds/pexels-pixabay-265129dark-1024x683-1.jpeg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "We create fast, high converting wordpress websites"
-  content : ""
+  title : "Custom built, fast & high converting websites"
+  content : "To suit every business and every budget"
   button:
     enable : false
     label : "Explore Us"
