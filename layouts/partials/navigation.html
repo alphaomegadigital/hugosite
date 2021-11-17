@@ -14,10 +14,11 @@
 			</button>
 
 			<div class="collapse navbar-collapse" id="navigation">
-				<ul class="navbar-nav ml-auto">
+				<!-- tanu -->
+				<ul class="navbar-nav ml-auto 3333">
 					{{ range site.Menus.main }}
 					<li class="nav-item">
-            <a class="nav-link" {{if findRE `^http` .URL}}target="_blank"{{end}}
+            <a class="nav-link 2" {{if findRE `^http` .URL}}target="_blank"{{end}}
 						href="{{if findRE `^#` .URL}}{{if not $.IsHome}}{{site.BaseURL | relLangURL}}{{end}}{{ .URL }}{{else}}{{.URL | relLangURL}}{{end}}">{{ .Name }}</a>
 					</li>
 					{{ end }}

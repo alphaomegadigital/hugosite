@@ -19,6 +19,28 @@
 .whitep {
     color: #ffffff!important;
   }
-  .author {
-    color: #ffffff!important;
-  }
+.author {
+color: #ffffff!important;
+}
+
+.author .title h2,
+.author .title h2 * {
+    color: #ffffff;
+}
+
+.v-portfolio .shuffle-item--visible img {
+    height: 350px;
+    object-fit: cover;
+    object-position: center;
+}
+
+.lozad {
+    min-height: 130px;
+}
+
+@media screen and (max-width: 767px) {
+    .v-portfolio .shuffle-item--visible img {
+        max-height: 350px;
+        height: auto;
+    }
+}
