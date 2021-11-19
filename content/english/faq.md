@@ -16,7 +16,7 @@ White label packages like all other web projects require a 40% downpayment, but 
 - Template files
 - Custom categories and custom taxonomies
 - Search filters
-- Plugin development
+- Plugin development 
 - rebuilding plugin functionality into templates or functions
 - APi integration
 - design system in Figma

@@ -19,6 +19,7 @@
 .whitep {
     color: #ffffff!important;
   }
+<<<<<<< HEAD
  .container .title #author {
     color: #ffffff !important;
   }
@@ -28,3 +29,30 @@
   #footer {
       background: black!important;
   }
+=======
+.author {
+color: #ffffff!important;
+}
+
+.author .title h2,
+.author .title h2 * {
+    color: #ffffff;
+}
+
+.v-portfolio .shuffle-item--visible img {
+    height: 350px;
+    object-fit: cover;
+    object-position: center;
+}
+
+.lozad {
+    min-height: 130px;
+}
+
+@media screen and (max-width: 767px) {
+    .v-portfolio .shuffle-item--visible img {
+        max-height: 350px;
+        height: auto;
+    }
+}
+>>>>>>> 8efe8c67bc33efeafcba4c77354c76b4e8567c1b
