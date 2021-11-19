@@ -328,6 +328,9 @@ html {
   .section-bg {
     background: #292F36;
   }
+  .title-h2 {
+    color: #292F36!important;
+}
   
   .overly {
     position: relative;
