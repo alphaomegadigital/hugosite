@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "http://alphaomegadigital.github.io"
+baseURL = "https://github.com/alphaomegadigital/hugosite"
 title = "Alpha omega digital"
 theme = "meghna"
 # post pagination
