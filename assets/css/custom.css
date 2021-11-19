@@ -22,3 +22,9 @@
  .container .title #author {
     color: #ffffff !important;
   }
+  .h2author{
+      color: #ffffff!important;
+  }
+  #footer {
+      background: black!important;
+  }
