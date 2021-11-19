@@ -19,7 +19,6 @@
 .whitep {
     color: #ffffff!important;
   }
-<<<<<<< HEAD
  .container .title #author {
     color: #ffffff !important;
   }
@@ -29,7 +28,6 @@
   #footer {
       background: black!important;
   }
-=======
 .author {
 color: #ffffff!important;
 }
@@ -55,4 +53,6 @@ color: #ffffff!important;
         height: auto;
     }
 }
->>>>>>> 8efe8c67bc33efeafcba4c77354c76b4e8567c1b
+.title-h2 {
+    color: #292F36!important;
+}
